@@ -1,0 +1,31 @@
+.checkout .items {
+  width: 80%;
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+  grid-template-rows: auto;
+  gap: 10px;
+  margin-inline: auto;
+}
+
+.checkout .h2 {
+  font-size: 3rem;
+}
+
+.checkout .total {
+  width: 80%;
+  margin-inline: auto;
+  font-weight: bold;
+  font-size: 1.75rem;
+}
+
+.checkout .btn-container {
+  width: 80%;
+  margin-inline: auto;
+}
+
+.checkout button {
+  height: 2rem;
+  width: min(20vw,80%);
+}
