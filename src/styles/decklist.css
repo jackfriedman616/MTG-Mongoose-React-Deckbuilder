@@ -1,4 +1,4 @@
-.checkout .items {
+.decklist .items {
   width: 80%;
   display: grid;
   justify-content: center;
@@ -9,23 +9,16 @@
   margin-inline: auto;
 }
 
-.checkout .h2 {
+.decklist .h2 {
   font-size: 3rem;
 }
 
-.checkout .total {
-  width: 80%;
-  margin-inline: auto;
-  font-weight: bold;
-  font-size: 1.75rem;
-}
-
-.checkout .btn-container {
+.decklist .btn-container {
   width: 80%;
   margin-inline: auto;
 }
 
-.checkout button {
+.decklist button {
   height: 2rem;
   width: min(20vw,80%);
 }

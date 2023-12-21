@@ -87,7 +87,7 @@
     font-weight: 700;
 }
 
-.basket-count {
+.deck-count {
     position: absolute; 
     font-size: 0.5rem;
     height: 1.5rem; 
@@ -132,7 +132,7 @@
         justify-content: end;
     }
 
-    .nav-container .desktop-basket {
+    .nav-container .desktop-deck {
         height: 100vh; 
         width: 0vw; 
         background: white;
@@ -143,38 +143,38 @@
         color: black;
     }
 
-    .nav-container .desktop-basket.visible, .nav-container .desktop-basket:focus, .nav-container .desktop-basket:focus-within {
+    .nav-container .desktop-deck.visible, .nav-container .desktop-deck:focus, .nav-container .desktop-deck:focus-within {
         display: block;
         animation: slide-in 0.3s forwards 1
     }
-    .nav-container .desktop-basket.invisible, .nav-container .desktop-basket:not(:focus) {
+    .nav-container .desktop-deck.invisible, .nav-container .desktop-deck:not(:focus) {
         width: 30vw;
         animation: slide-out 0.3s forwards 1
     }
 
-    .nav-container .desktop-basket > i {
+    .nav-container .desktop-deck > i {
         cursor: pointer;
         display: none;
     }
 
-    .nav-container .desktop-basket:focus > i {
+    .nav-container .desktop-deck:focus > i {
         display: inline;
     }
 
-    .nav-container .desktop-basket > i {
+    .nav-container .desktop-deck > i {
         position: fixed; 
         right: 20px; 
         top: 20px; 
         font-size: 1.5rem;
     }
 
-    .nav-container .desktop-basket a {
+    .nav-container .desktop-deck a {
         text-align: center;
     }
-    .nav-container .desktop-basket .btn {
+    .nav-container .desktop-deck .btn {
         width: 20vw;
     }
-    .nav-container .desktop-basket button {
+    .nav-container .desktop-deck button {
         height: 2rem;
         width: 80%;
     }
