@@ -1,19 +1,46 @@
  [
   {
+        "id": 1,
         "name": "Abrade", 
-        "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636839&type=card", 
+        "picture": [
+            {
+                "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636839&type=card",
+                "title": "picture 1.1",
+                "artist": "Bartek Fedyczak",
+                "cardNum": 131
+            }
+        ],
+        "colorId": [
+            "Red"
+        ], 
         "manaCost": "1R", 
         "manaValue": 2, 
         "cardType": ["Instant"], 
         "rulesText": "Choose One--  *Abrade deals 3 damage to target creature.  *Destroy target artifact.", 
         "rarity": "Common", 
-        "expansion": "LCI", 
-        "cardNum": 131, 
-        "artist": "Bartek Fedyczak"
+        "expansion": "LCI"
   },
   {
+    "id": 2,
     "name": "Abuelo Ancestral Echo", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636939&type=card", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636939&type=card",
+            "title": "picture 2.1",
+            "artist": "Victor Adame Minguez",
+            "cardNum": 219
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636505",
+            "title":"picture 2.2",
+            "artist": "Cabrol",
+            "cardNum": 297
+        }
+    ],
+    "colorId": [
+        "White",
+        "Blue"
+    ], 
     "manaCost": "1WU", 
     "manaValue": 3, 
     "superType": [
@@ -29,35 +56,28 @@
     "power": 2, 
     "toughness": 2, 
     "rarity": "Rare", 
-    "expansion": "LCI", 
-    "cardNum": 219, 
-    "artist": "Victor Adame Minguez"
+    "expansion": "LCI"
   },
   {
-    "name": "Abuelo, Ancestral Echo", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636505", 
-    "manaCost": "1WU", 
-    "manaValue": 3, 
-    "superType": [
-        "Legendary"
-    ], 
-    "cardType": [
-      "Creature"
-    ], 
-    "type": [
-      "Spirit"
-    ], 
-    "rulesText": "Flying, Ward 2  1WU-Exile another target creature or artifact you control. Return it under its owners control at the beginning of the next end step.", 
-    "power": 2, 
-    "toughness": 2, 
-    "rarity": "Rare", 
-    "expansion": "LCI", 
-    "cardNum": 297, 
-    "artist": "Cabrol"
-  },
-  {
+    "id": 3,
     "name": "Abuelos Awakening", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636691", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636691",
+            "title": "picture 3.1",
+            "artist": "Eelis Kyttanen",
+            "cardNum": 1
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639750&type=card",
+            "title": "picture 3.2",
+            "artist": "Eelis Kyttanen",
+            "cardNum": 353
+        }
+    ], 
+    "colorId": [
+        "White"
+    ],
     "manaCost": "X3W", 
     "manaValue": 4, 
     "cardType": [
@@ -65,13 +85,22 @@
     ],
     "rulesText": "Return target artifact or non-Aura enchantment card from your graveyard to the battlefield with X additional +1/+1 counters on it. It is a 1/1 Spirit creature with flying in addition to its other types.", 
     "rarity": "Rare", 
-    "expansion": "LCI", 
-    "cardNum": 1, 
-    "artist": "Eelis Kyttanen"
+    "expansion": "LCI"
   },
   {
+    "id": 4,
     "name": "Abyssal Gorestalker", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636790&type=card", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636790&type=card",
+            "title": "picture 4.1",
+            "artist": "Maxime Minard", 
+            "cardNum": 87
+        }
+    ], 
+    "colorId": [
+        "Black"
+    ],
     "manaCost": "4BB", 
     "manaValue": 6, 
     "cardType": [
@@ -84,13 +113,28 @@
     "power": 6, 
     "toughness": 6, 
     "rarity": "Uncommon", 
-    "expansion": "LCI", 
-    "cardNum": 87, 
-    "artist": "Maxime Minard"
+    "expansion": "LCI"
   },
   {
+    "id": 5,
     "name": "Aclazotz, Deepest Betrayal", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636791&type=card", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636791&type=card",
+            "title": "picture 5.1",
+            "artist": "Steve Prescott",
+            "cardNum": "88"
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639434&type=card",
+            "title": "picture 5.2",
+            "artist": "Clint Lockwood",
+            "cardNum": 316
+        }
+    ], 
+    "colorId": [
+        "Black"
+    ],
     "manaCost": "3BB", 
     "manaValue": 5, 
     "superType": [
@@ -107,56 +151,33 @@
     "power": 4, 
     "toughness": 4, 
     "rarity": "Mythic Rare", 
-    "expansion": "LCI", 
-    "cardNum": 88, 
-    "artist": "Steve Prescott", 
+    "expansion": "LCI",
     "backSide": {
       "name": "Temple of the Dead", 
-      "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636792&type=card", 
+      "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636792&type=card",
+            "title": "picture 5.1b",
+            "artist": "Steve Prescott",
+            "cardNum": 88
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639435&type=card",
+            "title": "picture 5.2b",
+            "artist": "Viko Menezes",
+            "cardNum": 316
+        }
+      ], 
+      "colorId": [
+        "Black"
+      ],
       "manaValue": 5, 
       "cardType": [
         "Land"
       ], 
       "rulesText": "(Transforms from Aclazotz, Deepest Betrayal.)  Tap: Add B.  2B, Tap: Transform Temple of the Dead. Activate only if a player has one or fewer cards in hand and only as a sorcery.", 
-      "rarity": "Mythic Rare", 
-      "cardNum": 88, 
-      "artist": "Steve Prescott"
+      "rarity": "Mythic Rare"
     }
-  },
-  {
-  	"name": "Aclazotz, Deepest Betrayal", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639434&type=card", 
-    "manaCost": "3BB", 
-    "manaValue": 5, 
-    "superType": [
-        "Legendary"
-    ], 
-    "cardType": [
-        "Creature"
-    ], 
-    "type": [
-        "Bat",
-        "God"
-    ],
-    "rulesText": "Flying, lifelink  Whenever Aclazotz attacks, each opponent discards a card. For each opponent who can not, you draw a card.  Whenever an opponent discards a land card, create a 1/1 black Bat creature token with flying.  When Aclazotz dies, return it to the battlefield tapped and transformed under its owners control.", 
-    "power": 4, 
-    "toughness": 4, 
-    "rarity": "Mythic Rare", 
-    "expansion": "LCI", 
-    "cardNum": 316, 
-    "artist": "Clint Lockwood", 
-    "backSide": {
-      "name": "Temple of the Dead", 
-      "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639435&type=card", 
-      "manaValue": 5, 
-      "cardType": [
-        "Land"
-      ], 
-      "rulesText": "(Transforms from Aclazotz, Deepest Betrayal.)  Tap: Add B.  2B, Tap: Transform Temple of the Dead. Activate only if a player has one or fewer cards in hand and only as a sorcery.", 
-      "rarity": "Mythic Rare", 
-      "cardNum": 316, 
-      "artist": "Viko Menezes"
-  	}
   },
   {
     "name": "Acolyte of Aclazotz", 

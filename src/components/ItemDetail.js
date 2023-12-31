@@ -12,12 +12,12 @@ const ItemDetail = ({addToDeck, removeFromDeck, deck, isMobile}) => {
   const [mainImg, setMainImg] = useState([]);
 
   const fetchData = async () => {
-    let dataAll = await fetch('https://raw.githubusercontent.com/cdevelopment010/shopping-cart/main/public/products.json')
+    let dataAll = await fetch('https://raw.githubusercontent.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/main/Public/Products.json')
       .then(res => res.json())
       .catch(err => [])
-    let item = dataAll.filter(i => {return i.id === params.id*1})[0];
+    let item = dataAll.filter(i => {return i.cardNum === params.cardNum*1})[0];
     setItem(item);
-    setMainImg(item.img[0]);
+    setMainImg(item.picture[0]);
 
     let rProducts = dataAll.filter(d => {return d.category === item.category && d.id !== item.id});
     setRelatedProducts(rProducts);
