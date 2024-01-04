@@ -619,8 +619,22 @@
     "expansion": "LCI"
   },
   {
+    "id": 22,
     "name": "Belligerent Yearling", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636841", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636841",
+            "title": "Belligerent Yearling",
+            "artist": "Maxime Minard",
+            "cardNum": 133 
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=639566",
+            "title": "Belligerent Yearling Showcase",
+            "artist": "Sidharth Chaturvedi",
+            "cardNum": 320
+        }
+    ],
     "manaCost": "1R", 
     "manaValue": 2, 
     "cardType": [
@@ -633,13 +647,19 @@
     "power": 3, 
     "toughness": 2, 
     "rarity": "Uncommon", 
-    "expansion": "LCI", 
-    "cardNum": 133, 
-    "artist": "Maxime Minard"
+    "expansion": "LCI"
   },
   {
+    "id": 23,
     "name": "Bitter Triumph", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636795&type=card", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636795&type=card",
+            "title": "Bitter Triumph",
+            "artist": "Donato Giancola",
+            "cardNum": 91
+        }
+    ], 
     "manaCost": "1B", 
     "manaValue": 2, 
     "cardType": [
@@ -647,53 +667,51 @@
     ], 
     "rulesText": "As an additional cost to cast this spell, discard a card or pay 3 life.  Destroy target creature or planeswalker.", 
     "rarity": "Uncommon", 
-    "expansion": "LCI", 
-    "cardNum": 91, 
-    "artist": "Donato Giancola"
+    "expansion": "LCI"
   },
   {
+    "id": 24,
     "name": "Bloodletter of Aclazotz", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636796", 
-    "manaCost": "1BBB", 
-    "manaValue": 4, 
-    "cardType": [
-        "Creature"
-    ],
-    "type": [
-        "Vampire",
-        "Demon"
-    ],
-    "rulesText": "Flying  If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)", 
-    "power": 2, 
-    "toughness": 4, 
-    "rarity": "Mythic Rare", 
-    "expansion": "LCI", 
-    "cardNum": 92, 
-    "artist": "Antonio José Manzanedo"
-  },
-  {
-    "name": "Bloodletter of Aclazotz", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=639262", 
-    "manaCost": "1BBB", 
-    "manaValue": 4, 
-    "cardType": [
-        "Creature"
-    ],
-    "type": [
-        "Vampire",
-        "Demon"
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636796",
+            "title": "Bloodletter of Aclazotz",
+            "artist": "Antonio José Manzanedo",
+            "cardNum": 92
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=639262",
+            "title": "Bloodletter of Aclazotz Showcase",
+            "artist": "Bene Rohlmann",
+            "cardNum": 336
+        }
     ], 
+    "manaCost": "1BBB", 
+    "manaValue": 4, 
+    "cardType": [
+        "Creature"
+    ],
+    "type": [
+        "Vampire",
+        "Demon"
+    ],
     "rulesText": "Flying  If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)", 
     "power": 2, 
     "toughness": 4, 
     "rarity": "Mythic Rare", 
-    "expansion": "LCI", 
-    "cardNum": 336, 
-    "artist": "Bene Rohlmann"
+    "expansion": "LCI"
   },
   {
+    "id": 25,
     "name": "Bloodthorn Flail", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636797&type=card", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636797&type=card",
+            "title": "Bloodthorn Flail",
+            "artist": "Igor Kieryluk",
+            "cardNum": 93
+        }
+    ], 
     "manaCost": "B", 
     "manaValue": 1, 
     "cardType": [
@@ -704,13 +722,25 @@
     ], 
     "rulesText": "Equipped creature gets +2/+1.  Equip--Pay 3 or discard a card.", 
     "rarity": "Uncommon", 
-    "expansion": "LCI", 
-    "cardNum": 93, 
-    "artist": "Igor Kieryluk"
+    "expansion": "LCI"
   },
   {
+    "id": 26,
     "name": "Bonehoard Dracosaur", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636842&type=card", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636842&type=card",
+            "title": "Bonehoard Dracosaur",
+            "artist": "Mark Zug",
+            "cardNum": 134
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639567&type=card",
+            "title": "Bonehoard Dracosaur Showcase",
+            "artist": "Sidharth Chaturvedi",
+            "cardNum": 321
+        }
+    ],
     "manaCost": "3RR", 
     "manaValue": 5, 
     "cardType": [
@@ -724,33 +754,19 @@
     "power": 5, 
     "toughness": 5, 
     "rarity": "Mythic Rare", 
-    "expansion": "LCI", 
-    "cardNum": 134, 
-    "artist": "Mark Zug"
+    "expansion": "LCI"
   },
   {
-    "name": "Bonehoard Dracosaur", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639567&type=card", 
-    "manaCost": "3RR", 
-    "manaValue": 5, 
-    "cardType": [
-        "Creature"
-    ],
-    "type": [
-        "Dinosaur",
-        "Dragon"
-    ], 
-    "rulesText": "Flying, first strike  At the beginning of your upkeep, exile the top two cards of your library. You may play them this turn. If you exiled a land card this way, create a 3/1 red Dinosaur creature token. If you exiled a nonland card this way, create a Treasure token.", 
-    "power": 5, 
-    "toughness": 5, 
-    "rarity": "Mythic Rare", 
-    "expansion": "LCI", 
-    "cardNum": 321, 
-    "artist": "Sidharth Chaturvedi"
-  },
-  {
+    "id": 27,
     "name": "Brackish Blunder", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636742&type=card", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636742&type=card",
+            "title": "Brackish Blunder",
+            "artist": "Daarken",
+            "cardNum": 46
+        }
+    ], 
     "manaCost": "1U", 
     "manaValue": 2, 
     "cardType": [
@@ -758,13 +774,25 @@
     ], 
     "rulesText": "Return target creature to its owner`s hand. If it was tapped, create a Map token. (It is an artifact with 1, Tap, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.)", 
     "rarity": "Common", 
-    "expansion": "LCI", 
-    "cardNum": 46, 
-    "artist": "Daarken"
+    "expansion": "LCI"
   },
   {
+    "id": 28,
     "name": "Braided Net", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636743&type=card", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636743&type=card",
+            "title": "Braided Net",
+            "artist": "Diego Gisbert",
+            "cardNum": 47
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639759&type=card",
+            "title": "Braided Net Borderless",
+            "artist": "Diego Gisbert",
+            "cardNum": 360
+        }
+    ], 
     "manaCost": "2U", 
     "manaValue": 3, 
     "cardType": [
@@ -773,25 +801,48 @@
     "rulesText": "Braided Net enters the battlefield with three net counters on it.  Tap, Remove a net counter from Braided Net: Tap another target nonland permanent. Its activated abilities can not be activated for as long as it remains tapped.  Craft with artifact 1U", 
     "rarity": "Rare", 
     "expansion": "LCI", 
-    "cardNum": 47, 
-    "artist": "Diego Gisbert", 
     "backSide": {
       "name": "Braided Quipu", 
-      "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636744&type=card", 
+      "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636744&type=card",
+            "title": "Braided Quipu",
+            "artist": "Diego Gisbert",
+            "cardNum": 47
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639760&type=card",
+            "title": "Braided Quipu Borderless",
+            "artist": "Diego Gisbert",
+            "cardNum": 360
+        }
+      ], 
       "manaValue": 3, 
     	"cardType": [
             "Artifact"
         ], 
     	"rulesText": "3U, tap: Draw a card for each artifact you control, then put Braided Quipu into its owners library third from the top.", 
     	"rarity": "Rare", 
-    	"expansion": "LCI", 
-    	"cardNum": 47, 
-    	"artist": "Diego Gisbert"
+    	"expansion": "LCI"
   	}
   },
   {
-    "name": "Brasss Tunnel-Grinder", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636843&type=card", 
+    "id": 29,
+    "name": "Brass's Tunnel-Grinder", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636843&type=card",
+            "title": "Brass's Tunnel-Grinder",
+            "artist": "Cristi Balanescu",
+            "cardNum": 135
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639776&type=card",
+            "title": "Brass's Tunnel-Grinder Borderless",
+            "artist": "Cristi Balanescu",
+            "cardNum": 373
+        }
+    ], 
     "manaCost": "2R", 
     "manaValue": 3, 
     "superType": [
@@ -800,14 +851,25 @@
     "cardType": [
         "Artifact"
     ], 
-    "rulesText": "When Brasss Tunnel-Grinder enters the battlefield, discard any number of cards, then draw that many cards plus one.  At the beginning of your end step, if you descended this turn, put a bore counter on Brasss Tunnel-Grinder. Then if there are three or more bore counters on it, remove those counters and transform it. (You descended if a permanent card was put into your graveyard from anywhere.)", 
+    "rulesText": "When Brass's Tunnel-Grinder enters the battlefield, discard any number of cards, then draw that many cards plus one.  At the beginning of your end step, if you descended this turn, put a bore counter on Brass's Tunnel-Grinder. Then if there are three or more bore counters on it, remove those counters and transform it. (You descended if a permanent card was put into your graveyard from anywhere.)", 
     "rarity": "Rare", 
-    "expansion": "LCI", 
-    "cardNum": 135, 
-    "artist": "Cristi Balanescu", 
+    "expansion": "LCI",
     "backSide": {
       "name": "Tecutlan, the Searing Rift", 
-    	"picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636844&type=card", 
+    	"picture": [
+            {
+                "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636844&type=card",
+                "title": "Tecutlan, the Searing Rift",
+                "artist": "Cristi Balanescu",
+                "cardNum": 135
+            },
+            {
+                "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=639777&type=card",
+                "title": "Tecutlan, the Searing Rift Borderless",
+                "artist": "Cristi Balanescu",
+                "cardNum": 373
+            }
+        ], 
     	"manaValue": 3, 
     	"superType": [
             "Legendary"
@@ -818,16 +880,22 @@
     	"type": [
             "Cave"
         ], 
-    	"rulesText": "(Transforms from Brass Tunnel-Grinder.)  Tap: Add R.  Whenever you cast a permanent spell using mana produced by Tecutlan, the Searing Rift, discover X, where X is that spells mana value.", 
+    	"rulesText": "(Transforms from Brass's Tunnel-Grinder.)  Tap: Add R.  Whenever you cast a permanent spell using mana produced by Tecutlan, the Searing Rift, discover X, where X is that spells mana value.", 
     	"rarity": "Rare", 
-    	"expansion": "LCI", 
-    	"cardNum": 135, 
-    	"artist": "Cristi Balanescu" 
+    	"expansion": "LCI"
   	}
   },
   {
+    "id": 30,
     "name": "Brazen Blademaster", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636845&type=card", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636845&type=card",
+            "title": "Brazen Blademaster",
+            "artist": "Jarel Threat",
+            "cardNum": 136
+        }
+    ], 
     "manaCost": "2R", 
     "manaValue": 3, 
     "cardType": [
@@ -841,13 +909,25 @@
     "power": 2, 
     "toughness": 3, 
     "rarity": "Common", 
-    "expansion": "LCI", 
-    "cardNum": 136, 
-    "artist": "Jarel Threat"
+    "expansion": "LCI"
   },
   {
+    "id": 31,
     "name": "Breeches, Eager Pilager", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636846", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636846",
+            "title": "Breeches, Eager Pilager",
+            "artist": "Josu Hernaiz",
+            "cardNum": 137
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636501",
+            "title": "Breeches, Eager Pilager Showcase",
+            "artist": "Rafal Wechterowicz(Too Many Skulls)",
+            "cardNum": 294
+        }
+    ], 
     "manaCost": "2R", 
     "manaValue": 3, 
     "superType": [
@@ -864,13 +944,25 @@
     "power": 3, 
     "toughness": 3, 
     "rarity": "Rare", 
-    "expansion": "LCI", 
-    "cardNum": 137, 
-    "artist": "Josu Hernaiz"
+    "expansion": "LCI"
   },
   {
+    "id": 31,
     "name": "Bringer of the Last Gift", 
-    "picture": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636798&type=card", 
+    "picture": [
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636798&type=card",
+            "title": "Bringer of the Last Gift",
+            "artist": "Wero Gallo",
+            "cardNum": 94
+        },
+        {
+            "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=639263",
+            "title": "Bringer of the Last Gift Showcase",
+            "artist": "Psydrian",
+            "cardNum": 337
+        }
+    ], 
     "manaCost": "6BB", 
     "manaValue": 8, 
     "cardType": [
@@ -884,8 +976,6 @@
     "power": 6, 
     "toughness": 6, 
     "rarity": "Rare", 
-    "expansion": "LCI", 
-    "cardNum": "94", 
-    "artist": "Wero Gallo"
+    "expansion": "LCI"
   }
 ]
