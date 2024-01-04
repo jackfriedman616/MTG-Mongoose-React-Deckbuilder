@@ -32,7 +32,7 @@ const ItemCard = ( {data, addToDeck, removeFromDeck, deck} ) => {
     <div className="item-card">
 
       <div className="img-container">
-        <img src={data.img[0].link} alt={data.name}/>
+        <img src={data.picture[0].link} alt={data.name}/>
         <Link className="overlay" to={`/shop/${data.id}`} >
           <span>View Product Detail</span>
         </Link>

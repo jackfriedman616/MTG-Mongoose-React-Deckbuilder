@@ -15,11 +15,11 @@ const ItemDetail = ({addToDeck, removeFromDeck, deck, isMobile}) => {
     let dataAll = await fetch('https://raw.githubusercontent.com/jackfriedman616/MTG-Mongoose-React-Deckbuilder/main/Public/Products.json')
       .then(res => res.json())
       .catch(err => [])
-    let item = dataAll.filter(i => {return i.cardNum === params.cardNum*1})[0];
+    let item = dataAll.filter(i => {return i.id === params.id*1})[0];
     setItem(item);
     setMainImg(item.picture[0]);
 
-    let rProducts = dataAll.filter(d => {return d.category === item.category && d.id !== item.id});
+    let rProducts = dataAll.filter(d => {return d.colorId === item.colorId && d.id !== item.id});
     setRelatedProducts(rProducts);
 
     let oProducts = dataAll.filter(d => d.id !== item.id);

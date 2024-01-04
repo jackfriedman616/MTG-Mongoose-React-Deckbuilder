@@ -18,7 +18,8 @@
         "cardType": ["Instant"], 
         "rulesText": "Choose One--  *Abrade deals 3 damage to target creature.  *Destroy target artifact.", 
         "rarity": "Common", 
-        "expansion": "LCI"
+        "expansion": "LCI",
+        "description": "Name: Abrade, Color Identity: Red, Mana Cost: 1R, Mana Value: 2, Types: Instant, Card Text:  Choose One--  *Abrade deals 3 damage to target creature.  *Destroy target artifact., Rarity: Common, Expansion: LCI"
   },
   {
     "id": 2,
@@ -39,7 +40,8 @@
     ],
     "colorId": [
         "White",
-        "Blue"
+        "Blue",
+        "Multicolor"
     ], 
     "manaCost": "1WU", 
     "manaValue": 3, 
@@ -52,15 +54,16 @@
     "type": [
         "Spirit"
     ],
-    "rulesText": "Flying, Ward 2  1WU-Exile another target creature or artifact you control. Return it under its owners control at the beginning of the next end step.", 
+    "rulesText": "Flying, Ward 2  1WU:Exile another target creature or artifact you control. Return it under its owners control at the beginning of the next end step.", 
     "power": 2, 
     "toughness": 2, 
     "rarity": "Rare", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Abuelo, Ancestral Echo, Color Identity: White/Blue, Mana Cost: 1WU, Mana Value: 3, Types: Legendary Creature--Spirit, Card Text: Flying, Ward 2  1WU:Exile another target creature or artifact you control. Return it under its owners control at the beginning of the next end step., P: 2, T: 2, Rarity: Rare, Expansion: LCI"
   },
   {
     "id": 3,
-    "name": "Abuelos Awakening", 
+    "name": "Abuelo's Awakening", 
     "picture": [
         {
             "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636691",
@@ -85,7 +88,8 @@
     ],
     "rulesText": "Return target artifact or non-Aura enchantment card from your graveyard to the battlefield with X additional +1/+1 counters on it. It is a 1/1 Spirit creature with flying in addition to its other types.", 
     "rarity": "Rare", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Abuelo's Awakening, Color Identity: White, Mana Cost: X3W, Mana Value: 4, Types: Sorcery, Card Text: Return target artifact or non-Aura enchantment card from your graveyard to the battlefield with X additional +1/+1 counters on it. It is a 1/1 Spirit creature with flying in addition to its other types., Rarity: Rare, Expansion: LCI"
   },
   {
     "id": 4,
@@ -113,7 +117,8 @@
     "power": 6, 
     "toughness": 6, 
     "rarity": "Uncommon", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Abyssal Gorestalker, Color Identity: Black, Mana Cost: 4BB, Mana Value: 6, Types: Creature--Horror, Card Text: When Abyssal Gorestalker enters the battlefield, each player sacrifices two creatures., P: 6, T: 6, Rarity: Uncommon, Expansion: LCI"
   },
   {
     "id": 5,
@@ -152,6 +157,7 @@
     "toughness": 4, 
     "rarity": "Mythic Rare", 
     "expansion": "LCI",
+    "description": "Name: Aclazotz, Deepest Betrayal, Color Identity: Black, Mana Cost: 3BB, Mana Value: 5, Types: Legendary Creature--Bat God, Card Text: Flying, lifelink  Whenever Aclazotz attacks, each opponent discards a card. For each opponent who can not, you draw a card.  Whenever an opponent discards a land card, create a 1/1 black Bat creature token with flying.  When Aclazotz dies, return it to the battlefield tapped and transformed under its owners control., P: 4, T: 4, Rarity: Mythic Rare, Expansion: LCI, Back Side: Name: Temple of the Dead, Color Identity: Black, Mana Value: 5, Types: Land, Card Text: (Transforms from Aclazotz, Deepest Betrayal.)  Tap: Add B.  2B, Tap: Transform Temple of the Dead. Activate only if a player has one or fewer cards in hand and only as a sorcery., Rarity: Mythic Rare",
     "backSide": {
       "name": "Temple of the Dead", 
       "picture": [
@@ -189,6 +195,9 @@
             "artist": "Irina Nordsol",
             "cardNum": 89
         }
+    ],
+    "colorId": [
+        "Black"
     ], 
     "manaCost": "2B", 
     "manaValue": 3, 
@@ -203,7 +212,8 @@
     "power": 1, 
     "toughness": 4, 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Acolyte of Aclazotz, Color Identity: Black, Mana Cost: 2B, Mana Value: 3, Types: Creature--Vampire Cleric, Card Text: Tap, Sacrifice another creature or artifact: Each opponent loses 1 life and you gain 1 life., P: 1, T: 4, Rarity: Common, Expansion: LCI"
   },
   {
     "id": 7,
@@ -215,6 +225,9 @@
             "artist": "Fesbra",
             "cardNum": 2
         }
+    ],
+    "colorId": [
+        "White"
     ], 
     "manaCost": "W", 
     "manaValue": 1, 
@@ -223,7 +236,8 @@
     ],
     "rulesText": "Target creature gets +1/+3 and gains flying until end of turn. Untap it.", 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Acrobatic Leap, Color Identity: White, Mana Cost: W, Mana Value: 1, Types: Instant, Card Text: Target creature gets +1/+3 and gains flying until end of turn. Untap it., Rarity: Common, Expansion: LCI"
   },
   {
     "id": 8,
@@ -236,6 +250,9 @@
             "cardNum": 3
         }
     ], 
+    "colorId": [
+        "White"
+    ],
     "manaCost": "3W", 
     "manaValue": 4, 
     "cardType": [
@@ -249,7 +266,8 @@
     "power": 3, 
     "toughness": 3, 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Adaptive Gemguard, Color Identity: White, Mana Cost: 3W, Mana Value: 4, Types: Artifact Creature--Gnome, Card Text: Tap two untapped artifacts and/or creatures you control: Put a +1/+1 counter on Adaptive Gemguard. Activate only as a sorcery., P: 3, T: 3, Rarity: Common, Expansion: LCI"
   },
   {
     "id": 9,
@@ -268,6 +286,9 @@
             "cardNum": 292
         }
     ], 
+    "colorId": [
+        "Blue"
+    ],
     "manaCost": "2U", 
     "manaValue": 3, 
     "superType": [
@@ -284,7 +305,8 @@
     "power": 1, 
     "toughness": 5, 
     "rarity": "Rare", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Akal Pakal, First Among Equals, Color Identity: Blue, Mana Cost: 2U, Mana Value: 3, Types: Legendary Creature--Human Advisor, Card Text: At the beginning of each players end step, if an artifact entered the battlefield under your control this turn, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard., P: 1, T: 5, Rarity: Rare, Expansion: LCI"
   },
   {
     "id": 10,
@@ -303,6 +325,11 @@
             "cardNum": 298
         }
     ], 
+    "colorId": [
+        "Black",
+        "Green",
+        "Multicolor"
+    ],
     "manaCost": "1BG", 
     "manaValue": 3, 
     "superType": [
@@ -318,7 +345,8 @@
     "power": 3, 
     "toughness": 3, 
     "rarity": "Uncommon", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Akawalli, the Seething Tower, Color Identity: Black/Green, Mana Cost: 1BG, Mana Value: 3, Types: Legendary Creature--Fungus, P:3, T:3, Rarity: Uncommon, Expansion: LCI"
   },
   {
     "id": 11,
@@ -337,6 +365,11 @@
             "cardNum": 299
         }
     ], 
+    "colorId": [
+        "White",
+        "Black",
+        "Multicolor"
+    ],
     "manaCost": "WB", 
     "manaValue": 2, 
     "superType": [
@@ -353,19 +386,23 @@
     "power": 2, 
     "toughness": 2, 
     "rarity": "Rare", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Amalia Benavides Aguirre, Color Identity: White/Black, Mana Cost: WB, Mana Value: 2, Types: Legendary Creature--Vampire Scout, Card Text: Ward—Pay 3 life.  Whenever you gain life, Amalia Benavides Aguirre explores. Then destroy all other creatures if its power is exactly 20. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it is a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.), P: 2, T: 2, Rarity: Rare, Expansion: LCI"
   },
   {
     "id": 12,
-    "name": "Ancestors Aid", 
+    "name": "Ancestors' Aid", 
     "picture": [
         {
             "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636840&type=card",
-            "title": "Ancestors Aid",
+            "title": "Ancestors' Aid",
             "artist": "Alesssandra Pisano",
             "cardNum": 132
         }
     ], 
+    "colorId": [
+        "Red"
+    ],
     "manaCost": "1R", 
     "manaValue": 2, 
     "cardType": [
@@ -373,7 +410,8 @@
     ], 
     "rulesText": "Target creature gets +2/+0 and gains first strike until end of turn.  Create a Treasure token. (It is an artifact with Tap, Sacrifice this artifact: Add one mana of any color.)", 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Ancestors' Aid, Color Identity: Red, Mana Cost: 1R, Mana Value: 2, Types: Instant, Card Text: Target creature gets +2/+0 and gains first strike until end of turn.  Create a Treasure token. (It is an artifact with Tap, Sacrifice this artifact: Add one mana of any color.), Rarity: Common, Expansion: LCI"
   },
   {
     "id": 13,
@@ -385,6 +423,9 @@
             "artist": "Artur Treffner",
             "cardNum": 45
         }
+    ],
+    "colorId": [
+        "Blue"
     ], 
     "manaCost": "3U", 
     "manaValue": 4, 
@@ -393,25 +434,31 @@
     ],
     "rulesText": "Draw three cards, then discard a card.", 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Ancestral Reminiscence, Color Identity: Blue, Mana Cost: 3U, Mana Value: 4, Types: Sorcery, Card Text: Draw three cards, then discard a card., Rarity: Common, Expansion: LCI"
   },
   {
     "id": 14,
-    "name": "Anim Pakal", 
+    "name": "Anim Pakal, Thousandth Moon", 
     "picture": [
         {
             "link": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=636943&type=card",
-            "title": "Anim Pakal",
+            "title": "Anim Pakal, Thousandth Moon",
             "artist": "Chris Rahn",
             "cardNum": 223
         },
         {
             "link": "https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=636508",
-            "title": "Anim Pakal Showcase",
+            "title": "Anim Pakal, Thousandth Moon Showcase",
             "artist": "Anditya Dita",
             "cardNum": 300
         }
     ], 
+    "colorId": [
+        "White",
+        "Red",
+        "Multicolor"
+    ],
     "manaCost": "1WR", 
     "manaValue": 3, 
     "superType": [
@@ -428,7 +475,8 @@
     "power": 1, 
     "toughness": 2, 
     "rarity": "Rare", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Anim Pakal, Thousandth Moon, Color Identity: White/Red, Mana Cost: 1WR, Mana Value: 3, Types: Legendary Creature--Human Soldier, Card Text: Whenever you attack with one or more non-Gnome creatures, put a +1/+1 counter on Anim Pakal, then create X 1/1 colorless Gnome artifact creature tokens that are tapped and attacking, where X is the number of +1/+1 counters on Anim Pakal., P: 1, T: 2, Rarity: Rare, Expansion: LCI"
   },
   {
     "id": 15,
@@ -441,6 +489,9 @@
             "cardNum": 90
         }
     ], 
+    "colorId": [
+        "Black"
+    ],
     "manaCost": "2B", 
     "manaValue": 3, 
     "cardType": [
@@ -448,7 +499,8 @@
     ], 
     "rulesText": "You may mill two cards. Then return up to two creature cards from your graveyard to your hand. (To mill two cards, put the top two cards of your library into your graveyard.)", 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Another Chance, Color Identity: Black, Mana Cost: 2B, Mana Value: 3, Types: Instant, You may mill two cards. Then return up to two creature cards from your graveyard to your hand. (To mill two cards, put the top two cards of your library into your graveyard.), Rarity: Common, Expansion: LCI"
   },
   {
     "id": 16,
@@ -461,6 +513,9 @@
             "cardNum": 174
         }
     ], 
+    "colorId": [
+        "Green"
+    ],
     "manaCost": "2G", 
     "manaValue": 3, 
     "cardType": [
@@ -473,7 +528,8 @@
     "power": 3, 
     "toughness": 3, 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Armored Kincaller, Color Identity: Green, Mana Cost: 2G, Mana Value: 3, Types: Creature--Dinosaur, Card Text: When Armored Kincaller enters the battlefield, you may reveal a Dinosaur card from your hand. If you do or if you control another Dinosaur, you gain 3 life., P: 3, T: 3, Rarity: Common, Expansion: LCI"
   },
   {
     "id": 17,
@@ -486,6 +542,9 @@
             "cardNum": 4
         }
     ], 
+    "colorId": [
+        "White"
+    ],
     "manaCost": "1W", 
     "manaValue": 2, 
     "cardType": [
@@ -499,7 +558,8 @@
     "power": 2, 
     "toughness": 2, 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Attentive Sunscribe, Color Identity: White, Mana Cost: 1W, Mana Value: 2, Types: Artifact Creature--Gnome, Card Text: Whenever Attentive Sunscribe becomes tapped, scry 1. (Look at the top card of your library. You may put that card on the bottom.), P: 2, T: 2, Rarity: Common, Expansion: LCI"
   },
   {
     "id": 18,
@@ -524,6 +584,11 @@
             "cardNum": 301
         }
     ], 
+    "colorId": [
+        "White",
+        "Black",
+        "Multicolor"
+    ],
     "manaCost": "WB", 
     "manaValue": 2, 
     "superType": [
@@ -540,7 +605,8 @@
     "power": 2, 
     "toughness": 1, 
     "rarity": "Uncommon", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Bartolomé del Presidio, Color Identity: White/Black, Mana Cost: WB, Mana Value: 2, Types: Legendary Creature--Vampire Knight, Card Text: Sacrifice another creature or artifact: Put a +1/+1 counter on Bartolomé del Presidio., P: 2, T: 1, Rarity: Uncommon, Expansion: LCI"
   },
   {
     "id": 19,
@@ -553,6 +619,9 @@
             "cardNum": 175
         }
     ], 
+    "colorId": [
+        "Green"
+    ],
     "manaCost": "1G", 
     "manaValue": 2, 
     "cardType": [
@@ -565,7 +634,8 @@
     "power": 1, 
     "toughness": 3, 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Basking Capybara, Color Identity: Green, Mana Cost: 1G, Mana Value: 2, Types: Creature--Capybara, Card Text: Descend 4 — Basking Capybara gets +3/+0 as long as there are four or more permanent cards in your graveyard."
   },
   {
     "id": 20,
@@ -578,6 +648,9 @@
             "cardNum": 5
         }
     ], 
+    "colorId": [
+        "White"
+    ],
     "manaCost": "2W", 
     "manaValue": 3, 
     "cardType": [
@@ -604,6 +677,9 @@
             "cardNum": 378
         }
     ], 
+    "colorId": [
+        "Green"
+    ],
     "manaCost": "3G", 
     "manaValue": 4, 
     "cardType": [
@@ -635,6 +711,9 @@
             "cardNum": 320
         }
     ],
+    "colorId": [
+        "Red"
+    ],
     "manaCost": "1R", 
     "manaValue": 2, 
     "cardType": [
@@ -660,6 +739,9 @@
             "cardNum": 91
         }
     ], 
+    "colorId": [
+        "Black"
+    ],
     "manaCost": "1B", 
     "manaValue": 2, 
     "cardType": [
@@ -686,6 +768,9 @@
             "cardNum": 336
         }
     ], 
+    "colorId": [
+        "Black"
+    ],
     "manaCost": "1BBB", 
     "manaValue": 4, 
     "cardType": [
@@ -712,6 +797,9 @@
             "cardNum": 93
         }
     ], 
+    "colorId": [
+        "Black"
+    ],
     "manaCost": "B", 
     "manaValue": 1, 
     "cardType": [
@@ -741,6 +829,9 @@
             "cardNum": 321
         }
     ],
+    "colorId": [
+        "Red"
+    ],
     "manaCost": "3RR", 
     "manaValue": 5, 
     "cardType": [
@@ -767,6 +858,9 @@
             "cardNum": 46
         }
     ], 
+    "colorId": [
+        "Blue"
+    ],
     "manaCost": "1U", 
     "manaValue": 2, 
     "cardType": [
@@ -793,6 +887,9 @@
             "cardNum": 360
         }
     ], 
+    "colorId": [
+        "Blue"
+    ],
     "manaCost": "2U", 
     "manaValue": 3, 
     "cardType": [
@@ -817,6 +914,9 @@
             "cardNum": 360
         }
       ], 
+      "colorId": [
+        "Blue"
+      ],
       "manaValue": 3, 
     	"cardType": [
             "Artifact"
@@ -843,6 +943,9 @@
             "cardNum": 373
         }
     ], 
+    "colorId": [
+        "Red"
+    ],
     "manaCost": "2R", 
     "manaValue": 3, 
     "superType": [
@@ -870,6 +973,9 @@
                 "cardNum": 373
             }
         ], 
+        "colorId": [
+            "Red"
+        ],
     	"manaValue": 3, 
     	"superType": [
             "Legendary"
@@ -896,6 +1002,9 @@
             "cardNum": 136
         }
     ], 
+    "colorId": [
+        "Red"
+    ],
     "manaCost": "2R", 
     "manaValue": 3, 
     "cardType": [
@@ -927,6 +1036,9 @@
             "artist": "Rafal Wechterowicz(Too Many Skulls)",
             "cardNum": 294
         }
+    ],
+    "colorId": [
+        "Red"
     ], 
     "manaCost": "2R", 
     "manaValue": 3, 
@@ -963,6 +1075,9 @@
             "cardNum": 337
         }
     ], 
+    "colorId": [
+        "Black"
+    ],
     "manaCost": "6BB", 
     "manaValue": 8, 
     "cardType": [
