@@ -658,7 +658,8 @@
     ],
     "rulesText": "When Bat Colony enters the battlefield, create a 1/1 black Bat creature token with flying for each mana from a Cave spent to cast it.  Whenever a Cave enters the battlefield under your control, put a +1/+1 counter on target creature you control.", 
     "rarity": "Uncommon", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Bat Colony, Color Identity: White, Mana Cost: 2W, Mana Value: 3, Types: Enchantment, Card Text:When Bat Colony enters the battlefield, create a 1/1 black Bat creature token with flying for each mana from a Cave spent to cast it.  Whenever a Cave enters the battlefield under your control, put a +1/+1 counter on target creature you control., Rarity: Uncommon, Expansion: LCI"
   },
   {
     "id": 21,
@@ -692,7 +693,8 @@
     "power": 0, 
     "toughness": 6, 
     "rarity": "Rare", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Bedrock Tortoise, Color Identity: Green, Mana Cost: 3G, Mana Value: 4, Types: Creature--Turtle, Card Text: As long as it is your turn, creatures you control have hexproof.  Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power., P: 0, T: 6, Rarity: Rare, Expansion: LCI"
   },
   {
     "id": 22,
@@ -722,11 +724,12 @@
     "type": [
         "Dinosaur"
     ], 
-    "rulesText": "Trample  Whenever another Dinosaur enters the battlefield under your control, you may have Belligerent Yearlings base power become equal to that creatures power until end of turn.", 
+    "rulesText": "Trample  Whenever another Dinosaur enters the battlefield under your control, you may have Belligerent Yearling's base power become equal to that creature's power until end of turn.", 
     "power": 3, 
     "toughness": 2, 
     "rarity": "Uncommon", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Belligerent Yearling, Color Identity: Red, Mana Cost: 1R, Mana Value: 2, Types: Creature--Dinosaur, Card Text: Trample  Whenever another Dinosaur enters the battlefield under your control, you may have Belligerent Yearling's base power become equal to that creature's power until end of turn., P: 3, T: 2, Rarity: Uncommon, Expansion: LCI"
   },
   {
     "id": 23,
@@ -749,7 +752,8 @@
     ], 
     "rulesText": "As an additional cost to cast this spell, discard a card or pay 3 life.  Destroy target creature or planeswalker.", 
     "rarity": "Uncommon", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Bitter Triumph, Color Identity: Black, Mana Cost: 1B, Mana Value: 2, Types: Instant, Card Text: As an additional cost to cast this spell, discard a card or pay 3 life.  Destroy target creature or planeswalker., Rarity: Uncommon, Expansion: LCI"
   },
   {
     "id": 24,
@@ -784,7 +788,8 @@
     "power": 2, 
     "toughness": 4, 
     "rarity": "Mythic Rare", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Bloodletter of Aclazotz, Color Identity: Black, Mana Cost: 1BBB, Mana Value: 4, Types: Creature--Vampire Demon, Card Text: Flying  If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.), P: 2, T: 4, Rarity: Mythic Rare, Expansion: LCI"
   },
   {
     "id": 25,
@@ -810,7 +815,8 @@
     ], 
     "rulesText": "Equipped creature gets +2/+1.  Equip--Pay 3 or discard a card.", 
     "rarity": "Uncommon", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Bloodthorn Flail, Color Identity: Black, Mana Cost: B, Mana Value: 1, Types: Artifact--Equipment, Rarity: Uncommon, Expansion: LCI"
   },
   {
     "id": 26,
@@ -845,7 +851,8 @@
     "power": 5, 
     "toughness": 5, 
     "rarity": "Mythic Rare", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Bonehoard Dracosaur, Color Identity: Red, Mana Cost: 3RR, Mana Value: 5, Types: Creature--Dinosaur Dragon, Card Text: Flying, first strike  At the beginning of your upkeep, exile the top two cards of your library. You may play them this turn. If you exiled a land card this way, create a 3/1 red Dinosaur creature token. If you exiled a nonland card this way, create a Treasure token., P: 5, T: 5, Rarity: Mythic Rare, Expansion: LCI"
   },
   {
     "id": 27,
@@ -868,7 +875,8 @@
     ], 
     "rulesText": "Return target creature to its owner`s hand. If it was tapped, create a Map token. (It is an artifact with 1, Tap, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.)", 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Brackish Blunder, Color Identity: Blue, Mana Cost: 1U, Mana Value: 2, Types: Instant, Card Text: Return target creature to its owner`s hand. If it was tapped, create a Map token. (It is an artifact with 1, Tap, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.), Rarity: Common, Expansion: LCI"
   },
   {
     "id": 28,
@@ -898,6 +906,7 @@
     "rulesText": "Braided Net enters the battlefield with three net counters on it.  Tap, Remove a net counter from Braided Net: Tap another target nonland permanent. Its activated abilities can not be activated for as long as it remains tapped.  Craft with artifact 1U", 
     "rarity": "Rare", 
     "expansion": "LCI", 
+    "description": "Name: Braided Net, Color Identity: Blue, Mana Cost: 2U, Mana Value: 3, Types: Artifact, Card Text: Braided Net enters the battlefield with three net counters on it.  Tap, Remove a net counter from Braided Net: Tap another target nonland permanent. Its activated abilities can not be activated for as long as it remains tapped.  Craft with artifact 1U, Rarity: Rare, Expansion: LCI, Back Side: Name: Braided Quipu, Color Identity: Blue, Mana Value: 3, Types: Artifact, Card Text: 3U, tap: Draw a card for each artifact you control, then put Braided Quipu into its owners library third from the top., Rarity: Rare",
     "backSide": {
       "name": "Braided Quipu", 
       "picture": [
@@ -957,6 +966,7 @@
     "rulesText": "When Brass's Tunnel-Grinder enters the battlefield, discard any number of cards, then draw that many cards plus one.  At the beginning of your end step, if you descended this turn, put a bore counter on Brass's Tunnel-Grinder. Then if there are three or more bore counters on it, remove those counters and transform it. (You descended if a permanent card was put into your graveyard from anywhere.)", 
     "rarity": "Rare", 
     "expansion": "LCI",
+    "description": "Name: Brass's Tunnel-Grinder, Color Identity: Red, Mana Cost: 2R, Mana Value: 3, Types: Legendary Artifact, Card Text: When Brass's Tunnel-Grinder enters the battlefield, discard any number of cards, then draw that many cards plus one.  At the beginning of your end step, if you descended this turn, put a bore counter on Brass's Tunnel-Grinder. Then if there are three or more bore counters on it, remove those counters and transform it. (You descended if a permanent card was put into your graveyard from anywhere.), Rarity: Rare, Expansion: LCI, Back Side: Name: Tecutlan, the Searing Rift, Color Identity: Red, Mana Value: 3, Types: Legendary Land--Cave, Card Text: (Transforms from Brass's Tunnel-Grinder.)  Tap: Add R.  Whenever you cast a permanent spell using mana produced by Tecutlan, the Searing Rift, discover X, where X is that spells mana value., Rarity: Rare",
     "backSide": {
       "name": "Tecutlan, the Searing Rift", 
     	"picture": [
@@ -1018,7 +1028,8 @@
     "power": 2, 
     "toughness": 3, 
     "rarity": "Common", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Brazen Blademaster, Color Identity: Red, Mana Cost: 2R, Mana Value: 3, Types: Creature--Orc Pirate, Card Text: Whenever Brazen Blademaster attacks while you control two or more artifacts, it gets +2/+1 until end of turn., P: 2, T: 3, Rarity: Common, Expansion: LCI"
   },
   {
     "id": 31,
@@ -1056,7 +1067,8 @@
     "power": 3, 
     "toughness": 3, 
     "rarity": "Rare", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Breeches, Eager Pilager, Color Identity: Red, Mana Cost: 2R, Mana Value: 3, Types: Legendary Creature--Goblin Pirate, Card Text: First Strike  Whenever a Pirate you control attacks, choose one that has not been chosen this turn —  • Create a Treasure token.  • Target creature can not block this turn.  • Exile the top card of your library. You may play it this turn., P: 3, T: 3, Rarity: Rare, Expansion: LCI"
   },
   {
     "id": 31,
@@ -1091,6 +1103,7 @@
     "power": 6, 
     "toughness": 6, 
     "rarity": "Rare", 
-    "expansion": "LCI"
+    "expansion": "LCI",
+    "description": "Name: Bringer of the Last Gift, Color Identity: Black, Mana Cost: 6BB, Mana Value: 8, Types: Creature--Vampire Demon, Card Text: Flying  When Bringer of the Last Gift enters the battlefield, if you cast it, each player sacrifices all other creatures they control. Then each player returns all creature cards from their graveyard that were not put there this way to the battlefield., P: 6, T: 6, Rarity: Mythic Rare, Expansion: LCI"
   }
 ]
