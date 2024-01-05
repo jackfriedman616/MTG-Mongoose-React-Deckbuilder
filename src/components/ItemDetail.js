@@ -19,7 +19,7 @@ const ItemDetail = ({addToDeck, removeFromDeck, deck, isMobile}) => {
     setItem(item);
     setMainImg(item.picture[0]);
 
-    let rProducts = dataAll.filter(d => {return d.colorId === item.colorId && d.id !== item.id});
+    let rProducts = dataAll.filter(d => {return d.colorId[0] === item.colorId[0] && d.id !== item.id});
     setRelatedProducts(rProducts);
 
     let oProducts = dataAll.filter(d => d.id !== item.id);
@@ -69,7 +69,7 @@ const ItemDetail = ({addToDeck, removeFromDeck, deck, isMobile}) => {
   }
 
   const setImage = (e) => {
-    setMainImg(item.img[e.target.id.split("-")[2]])
+    setMainImg(item.picture[e.target.id.split("-")[2]])
   }
 
   return(
@@ -91,7 +91,7 @@ const ItemDetail = ({addToDeck, removeFromDeck, deck, isMobile}) => {
           <img src={mainImg.link} className="main-img" alt={mainImg.title} title={mainImg.title} />
         </div>
         <div>
-                {item?.img?.map((im, ind) => {
+                {item?.picture?.map((im, ind) => {
                     return <img key={`img-sm-${ind}`} id={`img-sm-${ind}`} src={im.link} alt={`Product ${ind}`} className={`small-img ${mainImg.link === im.link ? 'active-img' : ''}`} onClick={setImage}/>
                     })
                 }
@@ -115,7 +115,7 @@ const ItemDetail = ({addToDeck, removeFromDeck, deck, isMobile}) => {
       </div>
 
       <div className={`item-detail-slider-2 ${otherProducts.length === 0 ? 'd-none' : ''}`}>
-        <h3 className="mt-5 mb-2">Products Customers Also Viewed</h3>
+        <h3 className="mt-5 mb-2">Users Also Viewed</h3>
         <div className="slider-container mb-5">
           <i className="fa-solid fa-caret-left fa-3x" onClick={scrollLeft}></i>
           <div className="slider">

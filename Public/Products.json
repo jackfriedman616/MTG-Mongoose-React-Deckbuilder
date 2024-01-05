@@ -39,9 +39,9 @@
         }
     ],
     "colorId": [
+        "Multicolor",
         "White",
-        "Blue",
-        "Multicolor"
+        "Blue"
     ], 
     "manaCost": "1WU", 
     "manaValue": 3, 
@@ -326,9 +326,9 @@
         }
     ], 
     "colorId": [
+        "Multicolor",
         "Black",
-        "Green",
-        "Multicolor"
+        "Green"
     ],
     "manaCost": "1BG", 
     "manaValue": 3, 
@@ -366,9 +366,9 @@
         }
     ], 
     "colorId": [
+        "Multicolor",
         "White",
-        "Black",
-        "Multicolor"
+        "Black"
     ],
     "manaCost": "WB", 
     "manaValue": 2, 
@@ -455,9 +455,9 @@
         }
     ], 
     "colorId": [
+        "Multicolor",
         "White",
-        "Red",
-        "Multicolor"
+        "Red"
     ],
     "manaCost": "1WR", 
     "manaValue": 3, 
@@ -585,9 +585,9 @@
         }
     ], 
     "colorId": [
+        "Multicolor",
         "White",
-        "Black",
-        "Multicolor"
+        "Black"
     ],
     "manaCost": "WB", 
     "manaValue": 2, 
